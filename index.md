@@ -4,7 +4,7 @@ description: Full Stack Web Engineer
 layout: default
 ---
 
-# Tooling
+# Tools
 
 <div>
     <a href="https://www.apple.com/macbook-pro-13/" class="icon">
@@ -37,6 +37,9 @@ layout: default
     <a href="https://www.tableplus.io/" class="icon">
         <img data-tippy-content="Table Plus" class="fa-img" src="img/tableplus.png" height="35" />
     </a>
+    <a href="https://dashlane.com" class="icon">
+        <img data-tippy-content="Dashlane" class="fa-img" src="img/dashlane.png" height="35" />
+    </a>
     <a href="https://www.pixelmator.com/pro/" class="icon">
         <img data-tippy-content="Pixelmator Pro" class="fa-img" src="img/pixelmator.png" height="35" />
     </a>
@@ -48,8 +51,26 @@ layout: default
 # Services
 
 <div>
+    <a href="https://www.google.com/gmail/" class="icon">
+        <img data-tippy-content="Gmail" class="fa-img" src="img/gmail.ico" height="35" />
+    </a>
     <a href="https://github.com/qkdreyer/" class="icon">
         <i data-tippy-content="GitHub" class="fab fa-2x fa-github"></i>
+    </a>
+    <a href="https://www.reddit.com/user/qkdreyer/" class="icon">
+        <img data-tippy-content="Reddit" class="fa-img" src="img/reddit.png" height="35" />
+    </a>
+    <a href="https://twitter.com/qkdreyer/" class="icon">
+        <img data-tippy-content="Twitter" class="fa-img" src="img/twitter.ico" height="35" />
+    </a>
+    <a href="https://vercel.com/" class="icon">
+        <img data-tippy-content="Vercel" class="fa-img" src="img/vercel.ico" height="35" />
+    </a>
+    <a href="https://www.digitalocean.com/" class="icon">
+        <img data-tippy-content="Digital Ocean" class="fa-img" src="img/digitalocean.ico" height="35" />
+    </a>
+    <a href="https://www.porkbun.com/" class="icon">
+        <img data-tippy-content="Porkbun" class="fa-img" src="img/porkbun.png" height="35" />
     </a>
     <a href="https://ngrok.com/" class="icon">
         <img data-tippy-content="ngrok" class="fa-img" src="img/ngrok.png" height="35" />
@@ -62,7 +83,7 @@ layout: default
 - [Node.js](https://nodejs.org/) ([Express](http://expressjs.com/))
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) ([Vue.js](https://vuejs.org/), [React](https://reactjs.org/))
 - [Shell](https://en.wikipedia.org/wiki/Shell_script)
-- [Haxe](https://haxe.org/)
+- [Haxe](https://haxe.org/) ([Heaps](https://heaps.io/))
 - [C++](https://fr.wikipedia.org/wiki/C%2B%2B) ([Qt](https://www.qt.io/))
 - [Ruby](https://www.ruby-lang.org/)
 - [Python](https://www.python.org/)
